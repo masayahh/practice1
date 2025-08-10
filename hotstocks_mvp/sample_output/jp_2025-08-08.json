@@ -1,0 +1,47 @@
+[
+  {
+    "symbol": "7203.T",
+    "company": "トヨタ自動車",
+    "reasonTag": "決算上振れ",
+    "reasonText": "決算上振れ。売上+18％・営利+25％と会社発表（EDINET）",
+    "sourceType": "official",
+    "sourceUrl": "https://disclosure.edinet-fsa.go.jp/",
+    "score": 0.91
+  },
+  {
+    "symbol": "6954.T",
+    "company": "ファナック",
+    "reasonTag": "自社株買い",
+    "reasonText": "自社株買いを発表。上限300億円・期間—（TDnet）",
+    "sourceType": "official",
+    "sourceUrl": "https://www.release.tdnet.info/",
+    "score": 0.88
+  },
+  {
+    "symbol": "4502.T",
+    "company": "武田薬品工業",
+    "reasonTag": "規制・承認",
+    "reasonText": "規制承認の公表。製品が承認（EDINET）",
+    "sourceType": "official",
+    "sourceUrl": "https://disclosure.edinet-fsa.go.jp/",
+    "score": 0.82
+  },
+  {
+    "symbol": "9432.T",
+    "company": "日本電信電話",
+    "reasonTag": "増配",
+    "reasonText": "増配を決定。年間120円に（TDnet）",
+    "sourceType": "official",
+    "sourceUrl": "https://www.release.tdnet.info/",
+    "score": 0.8
+  },
+  {
+    "symbol": "9984.T",
+    "company": "ソフトバンクグループ",
+    "reasonTag": "M&A",
+    "reasonText": "買収合意を発表。対価2.1B$で合意（EDINET）",
+    "sourceType": "official",
+    "sourceUrl": "https://disclosure.edinet-fsa.go.jp/",
+    "score": 0.78
+  }
+]

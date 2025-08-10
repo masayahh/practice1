@@ -1,0 +1,13 @@
+﻿tag,weight,jp_keywords,us_keywords,source_priority
+決算上振れ,1.0,決算短信|上振れ|増収増益|営業利益 増|純利益 増,earnings beat|above guidance|revenue up|EPS beat,official>news>pr
+決算下振れ,0.6,下振れ|減収減益|営業利益 減|純利益 減,miss|below guidance|revenue down|EPS miss,official>news>pr
+通期上方修正,0.95,業績予想の修正|上方修正|通期 予想 上方,raise guidance|increase outlook,official>news>pr
+通期下方修正,0.55,下方修正|減額修正,cut guidance|lower outlook,official>news>pr
+自社株買い,0.9,自己株式取得|自社株買い|取得上限,share repurchase|buyback|repurchase program,official>pr>news
+株式分割,0.85,株式分割|◯対◯|分割 比率,stock split|stock-split,official>pr>news
+増配,0.8,配当 予想 修正|増配|期末配当 引き上げ,increase dividend|dividend raise,official>news>pr
+大型受注,0.85,大型 受注|受注 契約|受注 総額,large contract|award|order valued at,official>pr>news
+M&A,0.75,買収|統合|資本業務提携|子会社化,acquisition|merger|to acquire|definitive agreement,official>news>pr
+規制・承認,0.8,承認|認可|薬事|国内販売 承認,FDA approval|regulatory approval|clearance,official>news>pr
+レーティング引き上げ,0.65,格上げ|目標株価 引き上げ|投資格付け 引き上げ,upgrade|price target raised|initiated overweight,news>official>pr
+材料未確認,0.4,出来高 急増|材料 不明,unusual volume|catalyst unclear,news>official>pr
